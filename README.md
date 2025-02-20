@@ -16,17 +16,19 @@ Data, yang kita gunakan sebagai data input, juga diberi label dalam kasus ini. J
 
 Bayangkan Anda ingin membuat model yang dapat memprediksi jenis hewan (kucing atau anjing) berdasarkan ciri-ciri fisiknya (misalnya, ukuran, berat, warna bulu). Dalam kasus ini, Anda akan membutuhkan dataset yang berisi contoh-contoh hewan yang sudah diberi label (kucing atau anjing) beserta ciri-ciri fisiknya. Data ini akan digunakan untuk melatih model Supervised Learning.
 
-**Metode Supervised Learning:**
+**Ilustrasi Metode Supervised Learning:**
 
 ![Supervised Learning](https://raw.githubusercontent.com/cendolboy/visualizing-dog-breeds-with-machine-learning/refs/heads/main/Supervised-Learning-in-ML.webp)
 
-Pembelajaran yang diawasi memiliki metode seperti:
+## Datasets
 
-* Klasifikasi (misalnya, memprediksi jenis hewan, memprediksi apakah email spam atau bukan)
-* Regresi (misalnya, memprediksi harga rumah, memprediksi suhu udara)
-* Naive Bayes
-* Support Vector Machine (SVM)
-* K-Nearest Neighbors (KNN)
-* Pohon Keputusan
+Datasets dapat dilihat pada tautan berikut: [Dog API Images](https://github.com/jigsawpieces/dog-api-images#dog-api-images)
 
+## Demonstrasi
+
+Demonstrasi dapat dilihat pada tautan berikut: [Demonstrasi Model](https://script.google.com/macros/s/AKfycbzBTIDRkdjVwL6LcwTjKUSW9_W8ZI6oz6sNjwYuPAIlhAPE5grWRxlVbgfr10azQcxhsg/exec)
+
+## Google Apps Script
+
+Anda dapat melihat implementasi lengkapnya pada file Google Apps Script pada tautan berikut : [Google Document](https://script.google.com/d/1JNPhxP-WhzyNebPQ3RdD6BbFUY33v_5N-sQ0PgGIOleHdamozuNbKTKR/edit?usp=sharing)
 
